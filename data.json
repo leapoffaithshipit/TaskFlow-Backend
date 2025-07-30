@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "7e0c1c87-c4e4-49f5-9b68-d894ebcce3e2",
+      "email": "ridwan763hafiz@gmail.com",
+      "password": "$2a$12$X16ludsh16.X3tEB/O5mwuGaZ9yc0gc6wx5ZuewBrBu3iFgvex22S"
+    }
+  ],
+  "Todos": [
+    {
+      "id": "68870241-2954-4733-af4e-29ae5b032c05",
+      "title": "First one ",
+      "completed": false,
+      "userId": "7e0c1c87-c4e4-49f5-9b68-d894ebcce3e2",
+      "createdAt": "2025-07-29T19:04:24.018Z"
+    },
+    {
+      "id": "0d8fb683-d62f-4d40-bd23-dbbb8914f84b",
+      "title": "Web App ",
+      "completed": true,
+      "userId": "7e0c1c87-c4e4-49f5-9b68-d894ebcce3e2",
+      "createdAt": "2025-07-30T03:44:28.282Z"
+    },
+    {
+      "id": "2aaf5940-7d24-42a2-9897-8563ec9d7df1",
+      "title": "Mobile ",
+      "completed": true,
+      "userId": "7e0c1c87-c4e4-49f5-9b68-d894ebcce3e2",
+      "createdAt": "2025-07-30T04:06:23.745Z"
+    },
+    {
+      "id": "b29f48d0-a3cf-4d95-89f2-0e0a0911e4ca",
+      "title": "Deploy Frontend",
+      "completed": false,
+      "userId": "7e0c1c87-c4e4-49f5-9b68-d894ebcce3e2",
+      "createdAt": "2025-07-30T04:14:25.201Z"
+    }
+  ]
+}
