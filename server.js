@@ -7,8 +7,10 @@ const resolvers = require('./resolvers');
 async function startServer() {
   const app = express();
 
-  // Enable CORS (adjust origin if needed for production)
-  app.use(cors());
+  // Enable CORS 
+app.use(cors({
+  origin: '*', 
+}));
 
   // Apollo Server setup with bounded cache
   const server = new ApolloServer({
